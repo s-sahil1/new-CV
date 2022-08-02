@@ -1,0 +1,43 @@
+.top-container {
+  background-color: #E9EFC0;
+  border: 2px solid;
+  border-color: #B4E197;
+  padding: 5px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 135px auto 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 60px;
+  right: 500px;
+}
+
+.mypic{
+  width:250px;
+  height:250px;
+}
+.skillsrow{
+  margin:auto;
+}

@@ -52,17 +52,15 @@ a {
   margin-top: 40px;
 }
 
-.bottom-container {}
-
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 18.75rem;
 }
 
 .top-cloud {
   position: absolute;
-  top: 60px;
-  right: 300px;
+  top: 3.75rem;
+  right: 18.75rem;
 }
 
 .mypic {

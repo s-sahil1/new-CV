@@ -1,18 +1,20 @@
 .top-container {
+  width: 100%;
   background-color: #EAF6F6;
   padding: 5px 5px 0 5px;
-
 }
-.introduction{
-  color:#40514E;
+
+.introduction {
+  color: #40514E;
   width: 40%;
   margin: auto;
 }
-hr{
+
+hr {
   border-style: dotted none none none;
   width: 50px;
   border-width: 6px;
-  color: #EAF6F6;
+  color: #94B49F;
   margin: 80px auto;
 }
 
@@ -33,11 +35,13 @@ h1 {
 h2 {
   font-size: 2.5rem;
   color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
   font-weight: lighter;
 }
 
 h3 {
   color: #11999E;
+  font-family: 'Montserrat', sans-serif;
 }
 
 a {
@@ -72,19 +76,21 @@ a {
   text-align: left;
   line-height: 2;
 }
-.skill-coding{
+
+.skill-coding {
   border-radius: 100px;
   float: left;
   width: 25%;
   margin-right: 30px;
-
 }
-.skill-backend{
+
+.skill-backend {
   border-radius: 100px;
   float: right;
   width: 25%;
   margin-left: 30px;
 }
+
 .btn {
   margin-top: 40px;
   background: #11cdd4;
@@ -112,19 +118,32 @@ a {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
-.contact-me{
+
+.contact-me {
   line-height: 60px;
+
 }
-.bottom-container{
+
+.bottom-container {
   margin-top: 80px;
   background-color: #66BFBF;
   padding: 20px;
   color: #11999E;
 }
-.trademark{
-  color:#EAF6F6;
+
+.trademark {
+  margin-top: 20px;
+  font-size: 0.75rem;
+  color: #EAF6F6;
+  font-family: 'Montserrat', sans-serif;
 }
-.footer-link{
+
+.footer-link {
+  font-family: 'Montserrat', sans-serif;
   padding: 0 30px;
   text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
 }
